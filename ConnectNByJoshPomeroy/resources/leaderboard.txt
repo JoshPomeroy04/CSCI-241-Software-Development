@@ -1,0 +1,6 @@
+                         Leaderboard:
+                      (username: score)
+||       Easy:      ||      Medium:     ||       Hard:      ||
+||                  ||                  ||                  ||
+||                  ||                  ||                  ||
+||                  ||                  ||                  ||
