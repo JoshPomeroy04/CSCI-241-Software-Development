@@ -1,9 +1,5 @@
 A GUI-based Connect-N game based on the student's P1
 
-# Notes to graders:
-This code base was made on Windows 11.
-I would like to use 2 late days on this project.
-
 # v1.0
 GUI ConnectN is fully functional. A human player plays against the computer in Connect 4, Connect 3, or Connect 5. Player's can save their top score under a username if their score is good enough. Instructions on how to play can be found in the Menu bar in the top left of the window. The player can play again after win, loss, or tie. 
 
